@@ -13,9 +13,3 @@
 **(Any Six digit Pin)**
 
 * Thats it... After 2-3 min of Initialize, Check your CRD Application or Account.
-* ***
-## Tutorial
-> ## By [Zardex1337](https://github.com/Zardex1337) / Great Job.
-[![IMAGE ALT TEXT HERE](https://i.top4top.io/p_1985mhirq1.jpg)](https://www.youtube.com/watch?v=1FEW0f-tpeE)
-> https://youtu.be/1FEW0f-tpeE
-***
